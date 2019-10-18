@@ -27,4 +27,7 @@
   <ItemGroup>
     <Library Include="..\bakkesmod.lib" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\bakkes_patchplugin.py" />
+  </ItemGroup>
 </Project>
